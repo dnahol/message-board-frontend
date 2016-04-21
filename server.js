@@ -53,7 +53,7 @@ http.createServer((req, res) => {
   { "text": 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus praesentium architecto, dolorum! Quia harum delectus vel neque repellat enim error assumenda rerum maxime voluptatibus, cum voluptatum impedit natus minus non?',
     "name": "Austin",
     "date": moment().format(),
-    // "url": 'http://ep.yimg.com/ay/yhst-63436268999074/lazybeans-bean-bag-polar-bear-10-fiesta-1.gif\'
+     "url": 'http://ep.yimg.com/ay/yhst-63436268999074/lazybeans-bean-bag-polar-bear-10-fiesta-1.gif'
   }
 ]
   //console.log( 'query: ', query );
